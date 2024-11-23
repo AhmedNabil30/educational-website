@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.4a9993b6.css",
-    "main.js": "/repository-name/static/js/main.cec24244.js",
-    "static/js/453.734d73e0.chunk.js": "/repository-name/static/js/453.734d73e0.chunk.js",
-    "index.html": "/repository-name/index.html",
-    "main.4a9993b6.css.map": "/repository-name/static/css/main.4a9993b6.css.map",
-    "main.cec24244.js.map": "/repository-name/static/js/main.cec24244.js.map",
-    "453.734d73e0.chunk.js.map": "/repository-name/static/js/453.734d73e0.chunk.js.map"
+    "main.css": "/educational-website/static/css/main.4a9993b6.css",
+    "main.js": "/educational-website/static/js/main.a586f3d5.js",
+    "static/js/453.734d73e0.chunk.js": "/educational-website/static/js/453.734d73e0.chunk.js",
+    "index.html": "/educational-website/index.html",
+    "main.4a9993b6.css.map": "/educational-website/static/css/main.4a9993b6.css.map",
+    "main.a586f3d5.js.map": "/educational-website/static/js/main.a586f3d5.js.map",
+    "453.734d73e0.chunk.js.map": "/educational-website/static/js/453.734d73e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a9993b6.css",
-    "static/js/main.cec24244.js"
+    "static/js/main.a586f3d5.js"
   ]
 }
