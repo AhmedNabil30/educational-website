@@ -1,4 +1,3 @@
-# Create and edit .gitignore
 node_modules/
 build/
 .env
